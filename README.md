@@ -8,6 +8,8 @@ This repository is a comprehensive guide to learn Python, covering basics to adv
   - [Control Flow](/basics/control_flow)
   - [Functions](/basics/functions)
   - [Naming Conventions](/basics/naming_conventions)
+  - [Collection Types](/basics/collection_types)
+
 - Intermediate (Coming Soon)
 - Advanced (Coming Soon)
 
