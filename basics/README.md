@@ -6,6 +6,7 @@ Welcome to the Python Basics section! This part of the repository focuses on fou
 - [Data Types](./data_types/README.md): Understand Python's basic data types like integers, floats, strings, and booleans.
 - [Control Flow](./control_flow/README.md): Learn how to use control flow statements like `if`, `for`, and `while`, `match` to dictate the flow of your Python programs.
 - [Functions](./functions/README.md): Dive into functions, understand how to define them, pass arguments, and use return values.
+- [Naming Conventions](./naming_conventions/README.md): Explore the best practices for naming variables, functions, constants, and more in Python.
 
 ## Using This Section
 - Navigate to each subfolder to find a README with theoretical explanations and practical examples (`examples.py`).
