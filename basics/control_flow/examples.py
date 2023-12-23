@@ -17,3 +17,13 @@ count = 0
 while count < 3:
     print("Count:", count)
     count += 1
+
+# Match statement (Python 3.10+)
+color = "red"
+match color:
+    case "red":
+        print("The color is red.")
+    case "blue":
+        print("The color is blue.")
+    case _:
+        print("The color is unknown.")

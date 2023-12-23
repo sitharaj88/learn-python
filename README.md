@@ -17,7 +17,4 @@ Navigate to each folder to find detailed READMEs and example Python scripts for 
 Feel free to contribute by submitting pull requests or opening issues for suggestions or bugs.
 
 ## License
-[MIT License](LICENSE.md)
-
-## Contact
-For any queries, reach out to [Your Email/Contact Information].
+[Apache License 2.0](/LICENSE)
